@@ -1,0 +1,2 @@
+- colocar no projeto do jasper o exemplo do reembolso ou dos relatórios do eSocial.
+- registrar as depedências que utilizamos
